@@ -1,7 +1,7 @@
 import random
 
 def main():
-    print("Selamat datang di Permainan Tebak Angka!")
+    print("Welcome di Permainan Tebak Angka!")
     print("Saya akan memilih sebuah angka acak antara 1 dan 15.")
     target = random.randint(1, 100)
     
