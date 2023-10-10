@@ -27,7 +27,7 @@ def main():
     if jumlah_tebakan == 1:
         print("Anda adalah seorang jenius! Anda menebak angka dengan satu tebakan.")
     else:
-        print("Terima kasih telah bermain!")
+        print("Terima kasih Telah memainkan game ini , dan sampai jumpa dilain waktu, semoga anda sehat selalu! Bye -_- ")
 
 if __name__ == "__main__":
     main()
